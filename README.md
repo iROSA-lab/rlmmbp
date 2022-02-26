@@ -1,1 +1,3 @@
-# rlmmbp
+# Code for the paper "Robot Learning of Mobile Manipulation with Reachability Behavior Priors"
+
+# Coming soon....
