@@ -1,3 +1,3 @@
-## Code repository for the paper: "Robot Learning of Mobile Manipulation with Reachability Behavior Priors" [[Paper](https://arxiv.org/)] [[Project site](https://irosalab.com/2022/02/24/rlmmbp/)]
+## Code repository for the paper: "Robot Learning of Mobile Manipulation with Reachability Behavior Priors" [[Paper](https://arxiv.org/abs/2203.04051)] [[Project site](https://irosalab.com/2022/02/24/rlmmbp/)]
 
 ### Coming soon...
